@@ -91,10 +91,10 @@
   <h2>Design & Graphics:</h2>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="Canva logo"  />
+  <!-- <img src="" height="40" alt="Canva logo"  />
   <img width="12" />
   <img src="" height="40" alt="Firebase Hosting logo"  />
-  <img width="12" />
+  <img width="12" /> -->
 </div>
 
 ###
